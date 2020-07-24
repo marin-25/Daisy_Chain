@@ -1,6 +1,11 @@
 # Daisy_Chain
 Code for 3d printed flower pendant and hoop created using Mathematica 
-                            ~.~
+                           
+using the function Manipulate[PolarPlot[r = Cos[a*t], {t, 0, 2*Pi}], {a, 0, 10, 1}] users are able to explore various "flowers"                            
+                            
+                            
+                                                     
+                            
 This project was created for Math 231W here is my essay explaining and process and inspiration of the pendant.
 
 Math with Mathematica 213W

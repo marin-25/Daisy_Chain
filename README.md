@@ -14,6 +14,5 @@ Project 2: Parametric Daisy Pendent
     
   The phrase “daisy chaining” has inspired the final sculpture. In terms of computer hardware, daisy-chaining is the act of connecting several devices in a linear series. Moreover, because Mathematica is a programming language, it is interesting to combine concepts that are related to computers as well as math and nature. Therefore, because computer hardware daisy chains are linear, the final pendant is also presented in a linear format. The practicality of a flat pendant is so the design can be viewed on the wearer's neck. This sculpture is not just an object; it is a piece of jewelry. Thus, it is meant to be worn and of course, most importantly, be atheistically pleasing in the way it reflects the complexity of mathematics and nature.  
 
- finish gives the jewelry a smooth finish that is appropriate for a piece of jewelry, and it is much more affordable than to use actual gold.  The steel option also has a gold option, which is also cheaper than the gold-plated brass. However, the steel's gold finish would most likely come off after some wear and tear; thus, for durability and longevity, the gold-plated brass is the most appropriate choice. Additionally, going from a plastic prototype to metal will give the overall pendant more weight, thus making it feel more sophisticated when someone wears it. Furthermore, the gold-plated brass will also further smoothen out the rounded corners of the pendant, thus elevating the quality of the jewelry.
-  
-  
+ 
+ 
